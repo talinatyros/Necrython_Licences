@@ -1,4 +1,7 @@
 # Necrython_Licences
 
-* Fercho: enabled
-* Zasuke: enabled
+* Fercho:
+> status: >enabled<
+
+* User: Zasuke
+> status: >enabled<
