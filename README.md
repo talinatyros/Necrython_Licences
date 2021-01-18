@@ -1,7 +1,7 @@
 # Necrython_Licences
 
-* Fercho:
-> status: >enabled<
-
-* User: Zasuke
-> status: >enabled<
+```prolog
+ID | NAME   | STATUS
+ 1 | FERCHO | ENABLED
+ 2 | ZASUKE | ENABLED
+```
