@@ -11,3 +11,4 @@ _Below is a list with the names of users with permissions_
 ## Ban List ⛔
 _Below is the list of blocked player names_
 - PlayerName: "Testwomen"
+- PlayerName: "Konan Of Akatsuki"
